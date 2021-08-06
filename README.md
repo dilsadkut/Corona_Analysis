@@ -3,3 +3,5 @@
  
 ## Kaggle dataset link
 https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+
+**Kaggle link of the study:** https://www.kaggle.com/dilsadkut/corona-analysis
